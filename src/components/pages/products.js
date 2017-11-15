@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-class HomePage extends Component {
+class Products extends Component {
   render() {
     return (
       <div className="container-fluid">
 
         <h1>
-          Home Page Content here
+          Products
         </h1>
 
         <p>
@@ -17,4 +17,4 @@ class HomePage extends Component {
   }
 }
 
-export default HomePage;
+export default Products;
